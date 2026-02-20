@@ -6,7 +6,7 @@
  * @date 20/02/2026
  *
  * @details
- * Reads digital touch input from TTP223 sensor
+ * Reads digital touch input from TTP223 sensor.
  * and displays structured output via Serial Monitor.
  */
 
